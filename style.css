@@ -155,8 +155,8 @@ html {
 }
 
 .gallery img {
-    width: 450px;
-    height: 350px;
+    width: 360px;
+    height: 240px;
     margin: 10px;
 
     /* width-360px, height-240px, margin-10px */
